@@ -44,7 +44,7 @@ The platform integrates modern web technologies with real-world services such as
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap"/>
   <img src="https://midtrans.com/assets/images/logo-midtrans-color.png" height="45" style="margin-left:10px;" alt="Midtrans"/>
-  <img src="https://rajaongkir.com/img/logo-rajaongkir.png" height="40" style="margin-left:10px;" alt="RajaOngkir"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47k--VlN3Rb84kKs6ZIkYwa7lncyG6uDhvg&s" height="40" style="margin-left:10px;" alt="RajaOngkir"/>
 </p>
 
 <p align="center">
