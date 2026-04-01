@@ -34,6 +34,32 @@ The platform integrates modern web technologies with real-world services such as
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap"/>
+  <img src="https://midtrans.com/assets/images/logo-midtrans-color.png" height="45" style="margin-left:10px;" alt="Midtrans"/>
+  <img src="https://rajaongkir.com/img/logo-rajaongkir.png" height="40" style="margin-left:10px;" alt="RajaOngkir"/>
+</p>
+
+<p align="center">
+  <b>Laravel</b> &nbsp; • &nbsp;
+  <b>MySQL</b> &nbsp; • &nbsp;
+  <b>HTML</b> &nbsp; • &nbsp;
+  <b>CSS</b> &nbsp; • &nbsp;
+  <b>JavaScript</b> &nbsp; • &nbsp;
+  <b>Bootstrap</b> &nbsp; • &nbsp;
+  <b>Midtrans</b> &nbsp; • &nbsp;
+  <b>Raja Ongkir</b>
+</p>
+
+---
+
 ## 🖼️ Screenshots
 
 ### [ Homepage ]
