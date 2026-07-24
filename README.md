@@ -81,6 +81,4 @@ The platform integrates modern web technologies with real-world services such as
 
 This project is legally protected under copyright registration.
 
-![Copyright Certificate]([HKI_Kripiku_2024.pdf](https://github.com/user-attachments/files/30364354/HKI_Kripiku_2024.pdf))
-
 ---
